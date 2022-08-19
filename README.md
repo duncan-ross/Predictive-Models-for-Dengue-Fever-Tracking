@@ -1,7 +1,7 @@
 # Predictive Models for Dengue Fever Tracking in Latin American Countries
-Duncan Ross
-College of Engineering, University of Florida
-Advisor: Sabahi, Sima; Department of Industrial & Systems Engineering
+Duncan Ross<br />
+College of Engineering, University of Florida<br />
+Advisor: Sabahi, Sima; Department of Industrial & Systems Engineering<br />
 
 ## About
 This is the codebase for my undergraduate thesis project. The published paper can be found [link](https://ufdc.ufl.edu/AA00085594/00001).
